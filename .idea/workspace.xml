@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc19408b-c205-40cd-81fe-2c4f8b0a7d40" name="Default" comment="" />
+    <list default="true" id="bc19408b-c205-40cd-81fe-2c4f8b0a7d40" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/datastructures/FloydCycle.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,87 +22,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MyLinkList.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MyLinkList.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/datastructures/MyLinkList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="426">
-              <caret line="102" column="30" lean-forward="true" selection-start-line="102" selection-start-column="30" selection-end-line="102" selection-end-column="30" />
+            <state relative-caret-position="-37">
+              <caret line="106" selection-start-line="106" selection-end-line="106" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DoublyLinkedList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/datastructures/doublylinklist/DoublyLinkedList.java">
+      <file leaf-file-name="FloydCycle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/datastructures/FloydCycle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="68" column="9" lean-forward="true" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
-              <folding>
-                <element signature="e#1300#1301#0" expanded="true" />
-                <element signature="e#1332#1333#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="152">
+              <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="9" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReverseSinglyLinkList.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ReverseSinglyLinkList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/datastructures/ReverseSinglyLinkList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-187">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestDoublyLinkedList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/datastructures/doublylinklist/TestDoublyLinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FunctionDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java8/intefacestaticmethod/FunctionDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MultiplePredicateDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java8/intefacestaticmethod/MultiplePredicateDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="32" column="54" selection-start-line="32" selection-start-column="54" selection-end-line="32" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LamdaDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java8/lamdademos/LamdaDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LamdaDemo3.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java8/lamdademos/LamdaDemo3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LamdaThreadDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java8/lamdademos/LamdaThreadDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+            <state relative-caret-position="323">
+              <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -108,8 +52,8 @@
       <file leaf-file-name="MyListTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/datastructures/MyListTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="16" selection-end-column="29" />
+            <state relative-caret-position="152">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -165,11 +109,12 @@
         <option value="$PROJECT_DIR$/src/niki/PersonTest.java" />
         <option value="$PROJECT_DIR$/src/java8/misc/ConstructorOverloading.java" />
         <option value="$PROJECT_DIR$/src/java8/lamdademos/LamdaThreadDemo.java" />
-        <option value="$PROJECT_DIR$/src/datastructures/MyListTest.java" />
-        <option value="$PROJECT_DIR$/src/datastructures/MyLinkList.java" />
         <option value="$PROJECT_DIR$/src/datastructures/doublylinklist/TestDoublyLinkedList.java" />
         <option value="$PROJECT_DIR$/src/datastructures/doublylinklist/DoublyLinkedList.java" />
         <option value="$PROJECT_DIR$/src/datastructures/ReverseSinglyLinkList.java" />
+        <option value="$PROJECT_DIR$/src/datastructures/FloydCycle.java" />
+        <option value="$PROJECT_DIR$/src/datastructures/MyLinkList.java" />
+        <option value="$PROJECT_DIR$/src/datastructures/MyListTest.java" />
       </list>
     </option>
   </component>
@@ -247,7 +192,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReverseSinglyLinkList">
+  <component name="RunManager" selected="Application.MyListTest">
     <configuration name="ConstructorOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java8.misc.ConstructorOverloading" />
       <module name="core-java-practice" />
@@ -258,8 +203,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="MyListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructures.MyListTest" />
+    <configuration name="FloydCycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructures.FloydCycle" />
       <module name="core-java-practice" />
       <extension name="coverage">
         <pattern>
@@ -268,12 +213,12 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="PersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="niki.PersonTest" />
+    <configuration name="MyListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructures.MyListTest" />
       <module name="core-java-practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="niki.*" />
+          <option name="PATTERN" value="datastructures.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -299,19 +244,19 @@
       </extension>
     </configuration>
     <list>
-      <item itemvalue="Application.PersonTest" />
       <item itemvalue="Application.ConstructorOverloading" />
       <item itemvalue="Application.MyListTest" />
       <item itemvalue="Application.TestDoublyLinkedList" />
       <item itemvalue="Application.ReverseSinglyLinkList" />
+      <item itemvalue="Application.FloydCycle" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyListTest" />
+        <item itemvalue="Application.FloydCycle" />
         <item itemvalue="Application.ReverseSinglyLinkList" />
         <item itemvalue="Application.TestDoublyLinkedList" />
-        <item itemvalue="Application.MyListTest" />
         <item itemvalue="Application.ConstructorOverloading" />
-        <item itemvalue="Application.PersonTest" />
       </list>
     </recent_temporary>
   </component>
@@ -365,12 +310,12 @@
       <workItem from="1566143230828" duration="495000" />
       <workItem from="1567801135155" duration="527000" />
       <workItem from="1567877970432" duration="996000" />
-      <workItem from="1567913449835" duration="6591000" />
+      <workItem from="1567913449835" duration="8943000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55950000" />
+    <option name="totallyTimeSpent" value="58302000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="814" extended-state="0" />
@@ -385,7 +330,7 @@
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.52859133" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.52859133" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.28484848" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
@@ -397,7 +342,7 @@
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39888424" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39888424" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -450,13 +395,13 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/datastructures/MyListTest.java</url>
-          <line>23</line>
+          <line>16</line>
           <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/datastructures/MyListTest.java</url>
-          <line>34</line>
+          <line>27</line>
           <properties />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
@@ -468,7 +413,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/datastructures/MyListTest.java</url>
-          <line>18</line>
+          <line>8</line>
           <properties />
           <option name="timeStamp" value="11" />
         </line-breakpoint>
@@ -495,9 +440,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/chattingapp/gui/ChattingScreen.form">
-      <provider selected="true" editor-type-id="ui-designer" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chattingapp/gui/MainScreen.form">
       <provider selected="true" editor-type-id="ui-designer" />
     </entry>
@@ -811,24 +753,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/datastructures/MyLinkList.java">
+    <entry file="file://$PROJECT_DIR$/src/datastructures/ReverseSinglyLinkList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="102" column="30" lean-forward="true" selection-start-line="102" selection-start-column="30" selection-end-line="102" selection-end-column="30" />
+        <state relative-caret-position="323">
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructures/FloydCycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="9" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/datastructures/MyListTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="16" selection-end-column="29" />
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/datastructures/ReverseSinglyLinkList.java">
+    <entry file="file://$PROJECT_DIR$/src/datastructures/MyLinkList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-187">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="-37">
+          <caret line="106" selection-start-line="106" selection-end-line="106" />
         </state>
       </provider>
     </entry>

@@ -107,6 +107,29 @@ class MyLinkList<T>
         return previous;
     }
 
+    public void floydCycle(){
+        MyNode<T> slow= head;
+        MyNode<T> fast= head;
+        if (head == null){
+            System.out.println("there is only one element in the list");
+        }
+        else
+        {
+
+            while (fast.link !=null && fast.link.link != null){
+                fast = fast.link.link;
+                slow = slow.link;
+                if (slow == fast){
+                    System.out.println("ther exists a cycle in the link list");
+                }
+                else
+                {
+                    System.out.println("there is not cycle in the link list");
+                }
+            }
+
+        }
+    }
     void printList()
     {
         MyNode<T> current = head;

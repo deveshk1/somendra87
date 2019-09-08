@@ -4,19 +4,12 @@ public class MyListTest
 {
     public static void main(String[] args)
     {
-        MyLinkList<String> list = new MyLinkList<>();
-        System.out.println("Add elements to Linked List :");
-        System.out.println("----------------------------");
-        list.add("somendra");
-        list.add("anu");
-        list.add("ravi");
-        list.add("rakhi");
-        list.add("baby");
-        list.printList();
-        System.out.println("----------------------------");
-        System.out.println();
+        MyLinkList<String> list = getList();
 
         list.reverseLinkList();
+        list.printList();
+
+        list.floydCycle();
         list.printList();
 
         /*System.out.println("Adding element at the beginning of the list : ");
@@ -42,5 +35,21 @@ public class MyListTest
         list.delete();
         list.printList();
         System.out.println("----------------------------");*/
+    }
+
+    public static MyLinkList<String> getList()
+    {
+        MyLinkList<String> list = new MyLinkList<>();
+        System.out.println("Add elements to Linked List :");
+        System.out.println("----------------------------");
+        list.add("somendra");
+        list.add("anu");
+        list.add("ravi");
+        list.add("rakhi");
+        list.add("baby");
+        list.printList();
+        System.out.println("----------------------------");
+        System.out.println();
+        return list;
     }
 }
