@@ -1,0 +1,22 @@
+design:
+Text box -
+    send message
+    ip-address  of remote machine
+    port number of remote machine
+
+Button:
+    connect
+    disconnect
+    send
+
+Text Area
+    incoming chat
+    outgoing chat
+
+Implementation:
+    server
+    client
+
+testing:
+    virtual machine
+    host machine
